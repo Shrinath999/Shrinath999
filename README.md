@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Frameworks,WebDevelopment sigma bacth**
 
-- 📫 How to reach me **shrinathdeshpande894@gmail.cm**
+- 📫 How to reach me **shrinathdeshpande894@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
